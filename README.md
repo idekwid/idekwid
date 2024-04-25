@@ -1,4 +1,4 @@
 # Hello uhhhh
 
 About me:
-  - I code sometimes
+  - I do stuff
