@@ -1,7 +1,3 @@
-# Hello uhhhh
+# Yo :3
 
-About me:
-  - I do stuff
-
-To-Do:
-  - Write something cool here idk
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idekwid)](https://github.com/anuraghazra/github-readme-stats)
