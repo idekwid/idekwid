@@ -6,4 +6,4 @@
 
 Also, here are some stats, cuz why not:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idekwid&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idekwid&theme=shadow_red&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
