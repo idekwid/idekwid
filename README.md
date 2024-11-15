@@ -1,6 +1,7 @@
 # Yo :3
 
-- I f*ck around with code to find out
+// I wanna rewrite this, so enjoy this litte comment :)
+ 
 - I make music 
 - In education for software development
 
