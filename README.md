@@ -1,10 +1,12 @@
-# Yo :3
+# Hey there!
 
-// I wanna rewrite this, so enjoy this litte comment :)
- 
+I'm idekwid. I am 18 years old and I do stuff sometimes.
+
+# About me 
 - I make music 
-- In education for software development
+- I'm in education for software development
+- I sleep sometimes
 
-Here are some stats, cuz why not:
+# And lastly, some stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idekwid&theme=shadow_red&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idekwid&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
