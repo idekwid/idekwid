@@ -6,6 +6,7 @@ I'm idekwid. I am 19 years old and I do stuff.
 - I make music 
 - I'm in education for software development
 - I sleep sometimes
+- Golden Ratio Rat
 
 # And lastly, some stats:
 
