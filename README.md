@@ -12,7 +12,7 @@ I'm idekwid. I am 19 years old and I do stuff.
 - Java (back in school, 1/16th fluent)
 - Delphi (for work, half fluent)
 - C# (for current school, 1/16 fluent)
-- Kotlin (dabbling a little 1/32 fluent)
+- Kotlin (dabbling a little, 1/32 fluent)
 - Rust (learning right now)
 
 # And lastly, some stats:
