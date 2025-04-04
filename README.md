@@ -7,7 +7,7 @@ I'm idekwid. I am 19 years old and I do stuff.
 - I'm in education for software development
 - I sleep sometimes
 
-## My languages
+### My languages
 - Python (first language)
 - Java (back in school, 1/16th fluent)
 - Delphi (for work, half fluent)
