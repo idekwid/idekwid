@@ -7,13 +7,24 @@ I'm idekwid. I am 19 years old and I do stuff.
 - I'm in education for software development
 - I sleep sometimes
 
-### My languages
-- Python (first language)
-- Java (back in school, 1/16th fluent)
-- Delphi (for work, half fluent)
-- C# (for current school, 1/16 fluent)
-- Kotlin (dabbling a little, 1/32 fluent)
-- Rust (learning right now)
+## My languages
+
+### Main Langs
+- Python (general)
+- Delphi (work)
+- C# (school)
+
+### Current Obsessions
+- Kotlin
+- Rust
+- Clojure (and lisp in general)
+
+### Bucket List
+- SuperCollider
+- SonicPi
+- PureData
+- Assembly
+- C/C++
 
 # And lastly, some stats:
 
