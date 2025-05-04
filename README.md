@@ -13,18 +13,9 @@ I'm idekwid. I am 19 years old and I do stuff.
 - Python (general)
 - Delphi (work)
 - C# (school)
+- Clojure (currently learning)
 
-### Current Obsessions
-- Kotlin
-- Rust
-- Clojure (and lisp in general)
 
-### Bucket List
-- SuperCollider
-- SonicPi
-- PureData
-- Assembly
-- C/C++
 
 # And lastly, some stats:
 
