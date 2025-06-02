@@ -13,7 +13,6 @@ I'm idekwid. I am 19 years old and I do stuff.
 - Python (general)
 - Delphi (work)
 - C# (school)
-- Typescript (currently learning)
 
 
 
