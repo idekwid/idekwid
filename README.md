@@ -7,14 +7,6 @@ I'm idekwid. I am 19 years old and I do stuff.
 - I'm in education for software development
 - I sleep sometimes
 
-## My languages
-
-### Main Langs
-- Python (general)
-- Delphi (work)
-- C# (school)
-
-
 
 # And lastly, some stats:
 
