@@ -7,6 +7,8 @@ I'm idekwid. I am 19 years old and I do stuff.
 - I'm in education for software development
 - I sleep sometimes
 
+# Contact me
+If you wanna get in touch, do it here: idekwidcontact@pm.me
 
 # And lastly, some stats:
 
